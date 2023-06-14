@@ -70,7 +70,7 @@ function App() {
     <div className="col-md-4 my-3 mx-auto">
       <div className="card">
         <div className="card-header display-6 text-center">
-          Rect Todo With Api
+          React Todo With Api
         </div>
         <TodoForm onAddTodo={handleSubmit} />
         {
