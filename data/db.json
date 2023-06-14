@@ -1,0 +1,28 @@
+{
+  "lists": [
+    {
+      "id": "79205624-bf97-4310-b182-d0b14086232b",
+      "task": "go shopping",
+      "completed": false,
+      "isEditable": false
+    },
+    {
+      "id": "e6a0430f-cffd-476a-aba3-bc76cc78b025",
+      "task": "push to git hub",
+      "completed": true,
+      "isEditable": false
+    },
+    {
+      "id": "932c1297-730f-4914-aaf9-3270b69d8d7b",
+      "task": "checking again",
+      "completed": true,
+      "isEditable": false
+    },
+    {
+      "id": "40e48d6c-eb75-4de6-a02e-06cf3b516c97",
+      "task": "We all meet this saturday",
+      "completed": false,
+      "isEditable": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+body {
+  background: #02112B;
+}
+
+input {
+  outline: #02112B !important;
+  box-shadow: #02112B !important;
+  border: 1px solid #02112B !important;
+}
+
+input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+}
