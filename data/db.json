@@ -1,12 +1,6 @@
 {
   "lists": [
     {
-      "id": "79205624-bf97-4310-b182-d0b14086232b",
-      "task": "go shopping",
-      "completed": false,
-      "isEditable": false
-    },
-    {
       "id": "e6a0430f-cffd-476a-aba3-bc76cc78b025",
       "task": "push to git hub",
       "completed": true,
